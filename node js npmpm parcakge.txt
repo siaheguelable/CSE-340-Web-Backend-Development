@@ -1,0 +1,23 @@
+ node to set node the pnmp directly 
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+npm install -g pnpm
+
+
+video
+
+https://byui-cse.github.io/cse340-ww-content/views/pnpm-install.html
+
+
+
+creating project with pnpm 
+
+pnpm init to install the package.json file
+
+you can also name your server in the json file
+
+run this commmend to add express
+
+pnpm add express
+
+
